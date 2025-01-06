@@ -45,7 +45,18 @@ RegisterNumber:24901144
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![Screenshot 2024-12-28 211256](https://github.com/user-attachments/assets/53bf2ca0-26a7-44c8-b3b3-1120b6969b7c)
+![WhatsApp Image 2025-01-06 at 10 33 28_b19ff70e](https://github.com/user-attachments/assets/b891a21a-4e86-4f25-af10-e6e5290892f4)
+
+
+
+
+
+**TRUTH TABLE**
+
+
+![WhatsApp Image 2025-01-03 at 14 03 42_e8b0abfe](https://github.com/user-attachments/assets/47ddfec9-4e1b-439c-8052-bd8f8ee2583c)
+
+
 
 
 **RESULTS**
